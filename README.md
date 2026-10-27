@@ -88,3 +88,22 @@ Model ARIMA digunakan untuk meramalkan metrik berdasarkan pola historis. Model i
 - **Artificial Intelligence:** Komponen estimasi nutrisi makanan.
 
 
+# Estimasi Nutrisi
+<img width="1920" height="1200" alt="Screenshot (4184)" src="https://github.com/user-attachments/assets/400d0f12-a5f3-4499-b232-894cab8a6e2e" />
+
+
+# Aktivitas Fisik
+<img width="1920" height="1200" alt="Screenshot (5822)" src="https://github.com/user-attachments/assets/9ce81e33-8798-4e6b-86c8-d28c29c11561" />
+
+
+# Summary
+<img width="1920" height="1200" alt="Screenshot (5842)" src="https://github.com/user-attachments/assets/5ac6ded9-5656-4ec6-a87f-4b0a128e51f0" />
+<img width="1920" height="1200" alt="Screenshot (5843)" src="https://github.com/user-attachments/assets/db61ad25-2f7b-4e3f-b00e-4e0ba2ebd15c" />
+<img width="1920" height="1200" alt="Screenshot (5844)" src="https://github.com/user-attachments/assets/74b3b2fe-5877-4af4-a03a-337c5bb747ba" />
+
+
+
+
+
+
+
